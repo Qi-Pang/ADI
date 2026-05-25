@@ -90,3 +90,21 @@ vfl_adi/             models.py, datasets.py, train.py, attack.py, main.py
 scripts/reproduce.py runs all datasets and writes results/summary.md
 paper.pdf            the extended paper
 ```
+
+## Citation
+
+```
+@INPROCEEDINGS {10179446,
+author = { Pang, Qi and Yuan, Yuanyuan and Wang, Shuai and Zheng, Wenting },
+booktitle = { 2023 IEEE Symposium on Security and Privacy (SP) },
+title = {{ ADI: Adversarial Dominating Inputs in Vertical Federated Learning Systems }},
+year = {2023},
+volume = {},
+ISSN = {},
+pages = {1875-1892},
+doi = {10.1109/SP46215.2023.10179446},
+url = {https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.10179446},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month =May}
+```
